@@ -57,7 +57,7 @@
       "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus_Alpha/main/SensorGroupsPlus_Parent.groovy",
       "required": true,
       "oauth": false,
-      "primary": true'
+      "primary": true
     }
   ],
   "drivers": [
