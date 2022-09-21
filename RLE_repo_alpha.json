@@ -4,7 +4,7 @@
   "packages": [
     {
       "id": "3e3e427a-e276-4e19-8cbb-5ac998353f30",
-      "name": "Sensor Groups+_Alpha",
+      "name": "Sensor Groups+ Alpha",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus_Alpha/main/SensorGroupsPlus_Alpha.json",
       "description": "An app for grouping sensors"
