@@ -6,6 +6,15 @@
   "dateReleased": "2022-09-21",
   "apps": [
     {
+      "id": "9e7e2eec-dfbf-49ef-a1c8-9735fd4933c3",
+      "name": "Sensor Groups+",
+      "namespace": "rle.sg+",
+      "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus_Alpha/main/SensorGroupsPlus_Parent.groovy",
+      "required": true,
+      "oauth": false,
+      "primary": true
+    },
+    {
       "id": "fbfd0461-7762-440e-8367-80bd7c00c0bf",
       "name": "Sensor Groups+_CO",
       "namespace": "rle.sg+",
@@ -49,15 +58,6 @@
       "required": true,
       "oauth": false,
       "primary": false
-    },
-    {
-      "id": "9e7e2eec-dfbf-49ef-a1c8-9735fd4933c3",
-      "name": "Sensor Groups+",
-      "namespace": "rle.sg+",
-      "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus_Alpha/main/SensorGroupsPlus_Parent.groovy",
-      "required": true,
-      "oauth": false,
-      "primary": true
     }
   ],
   "drivers": [
