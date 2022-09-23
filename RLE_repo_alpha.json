@@ -4,10 +4,17 @@
   "packages": [
     {
       "id": "3e3e427a-e276-4e19-8cbb-5ac998353f30",
-      "name": "Sensor Groups+ Alpha",
+      "name": "Sensor Groups+_Alpha",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/FriedCheese2006/SensorGroupsPlus_Alpha/main/SensorGroupsPlus_Alpha.json",
       "description": "An app for grouping sensors"
+    },
+    {
+      "id": "f61d76a8-6a37-485c-bc6f-e2d82e975cd1",
+      "name": "Attic Fan Contact Sensors+",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/FriedCheese2006/AtticFanContactSensorsPlus/main/AtticFanContactSensorsPlus.json",
+      "description": "An app for checking contact sensors for attic fans"
     }
   ]
 }
